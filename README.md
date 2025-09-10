@@ -56,9 +56,9 @@ System building is more than code — it’s consistency, context, and contribut
 
 ## 🔒 Confidentiality Notice
 
-This documentation is strictly intended for showcasing personal contributions and development discipline.  
-All technical references have been carefully generalized — project names and module identifiers are anonymized where necessary.  
-No proprietary source code, internal algorithms, or trade secrets are shared in any form.
-All logs and descriptions fully comply with company NDAs and security practices. No proprietary or sensitive data is exposed.
+- This documentation is strictly intended for showcasing personal contributions and development discipline.  
+- All technical references have been carefully generalized — **project names and module identifiers are anonymized** where necessary.  
+- **No proprietary source code**, internal algorithms, or trade secrets are shared in any form.
+- All logs and descriptions **fully comply with company NDAs** and security practices. No proprietary or sensitive data is exposed.
 
 ---
